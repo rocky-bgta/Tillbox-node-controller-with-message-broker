@@ -1,0 +1,17 @@
+.DS_Store
+dist
+doc
+node_modules
+.vscode
+.nyc_output
+coverage
+*.log
+npm-debug.log*
+.idea
+/npm-debug.log
+/access.log
+/variables.env
+
+/.gulp-cache
+/package-lock.json
+

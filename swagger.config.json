@@ -1,0 +1,12 @@
+{
+  "swagger": {
+    "outputDirectory": "./dist",
+    "entryFile": "./src/index.ts",
+    "name": "TillBox Web API Documentation",
+    "description": "NodeJS application using Typescript-rest library",
+    "license": "NybSys",
+    "produces": ["application/json"],
+    "consumes": ["application/json"],
+    "version": "1.0.0"
+  }
+}
